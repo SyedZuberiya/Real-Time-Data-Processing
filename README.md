@@ -51,5 +51,4 @@ Every 5 minutes, it calculates the average price and stores it in the database.
 🔔 Example Notification
 📈 ALERT: AAPL has increased by 2.4% in the last minute! (from $150.00 to $153.60)
 ---
-Output
-![image](https://github.com/user-attachments/assets/7418e5d6-bf4d-4009-b83c-b626ad5fc83b)
+
