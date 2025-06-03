@@ -1,0 +1,6 @@
+websockets
+asyncio
+pandas
+sqlalchemy          # or pymongo if using MongoDB
+psycopg2-binary     # for PostgreSQL
+python-dotenv       # optional, for .env config
